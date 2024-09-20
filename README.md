@@ -28,5 +28,5 @@ Untuk menutup aplikasi, cukup tutup jendela atau tekan `Ctrl+C` di terminal jika
 \n
 1. **Input Teks**: `HELLO WORLD`\n
 2. **Kunci**: `samplekey123`\n
-3. **Tipe Cipher**: `Vigenere`\n
+3. **Tipe Cipher**: `Vigenere`
 
